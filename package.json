@@ -1,0 +1,21 @@
+{
+  "name": "MongoScraper",
+  "version": "1.0.0",
+  "description": "Web App that lets user view and leave comments on the latest news.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heatlife305/MongoScraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Heatlife305/MongoScraper/issues"
+  },
+  "homepage": "https://github.com/Heatlife305/MongoScraper#readme"
+}
